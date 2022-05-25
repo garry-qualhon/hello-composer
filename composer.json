@@ -13,6 +13,6 @@
         "name": "Garry",
         "email": "gurpreet.singh@qualhon.com"
     }],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {}
 }
