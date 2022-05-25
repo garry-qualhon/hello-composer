@@ -2,6 +2,8 @@
     "name": "ninja-programmer/hello-world",
     "description": "Simple composer package to say hello world!",
     "type": "library",
+    "keywords": ["php", "hello", "helloworld", "hello-world", "hello world"],
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "NinjaProgrammer\\HelloWorld\\": "src/"
