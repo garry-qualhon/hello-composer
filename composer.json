@@ -1,5 +1,5 @@
 {
-    "name": "ninjaProgrammer/HelloWorld",
+    "name": "ninja-programmer/hello-world",
     "description": "Simple composer package to say hello world!",
     "type": "library",
     "autoload": {
