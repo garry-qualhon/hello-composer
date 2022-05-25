@@ -1,0 +1,16 @@
+{
+    "name": "ninjaProgrammer/HelloWorld",
+    "description": "Simple composer package to say hello world!",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "NinjaProgrammer\\HelloWorld\\": "src/"
+        }
+    },
+    "authors": [{
+        "name": "Garry",
+        "email": "gurpreet.singh@qualhon.com"
+    }],
+    "minimum-stability": "stable",
+    "require": {}
+}
